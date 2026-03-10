@@ -1,0 +1,6 @@
+{
+  "name": "blabla-assets",
+  "version": "1.0.0",
+  "description": "Blabla-cube 3D assets",
+  "files": ["*.glb"]
+}
